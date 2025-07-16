@@ -6,4 +6,4 @@ Rick and Morty API Application:
 - Flow
 - Hilt
 
-[Video presentation]([URL_видео](https://github.com/mafusaik/RickAndMortyApp/blob/master/RickMortiDemo.mp4))
+[Video presentation] [(https://github.com/mafusaik/RickAndMortyApp/blob/master/RickMortiDemo.mp4]
